@@ -29,7 +29,6 @@ export default {
           text: 'rgb(var(--color-text))',
           muted: 'rgb(var(--color-text-muted))',
         },
-      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
       },

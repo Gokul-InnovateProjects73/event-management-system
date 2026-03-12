@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EventHub - Event Management System
 
 ## Project Overview
@@ -56,3 +57,6 @@ Key improvements include:
 
 ## Objective
 The main objective of this project is to provide a user-friendly platform similar to KnowFest for managing and participating in events online, reducing manual processes and improving efficiency.
+=======
+# event-management-system
+>>>>>>> 829f65f473270e851495bd2082e6a551410edc7e
